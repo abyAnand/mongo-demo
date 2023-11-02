@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      username: aby
+      password: aby
+      host: localhost
+      port: 8094
+      database: spring_mongo
+      authentication-database: admin
